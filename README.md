@@ -80,10 +80,10 @@ Publication:
 Macori G et al. Genome-wide profiling of enterotoxigenic Staphylococcus aureus strains used for the production of naturally contaminated cheeses. Genes. 2019;11(1):33.
 
 Database:
-Staphylococcus Enterotoxins Database. GitHub repository. Available at: https://github.com/macgenomegue/[REPOSITORY_NAME]
+Staphylococcus Enterotoxins Database. GitHub repository. Available at: https://github.com/macgenomegue/EnteroStaphDB
 
 Suggested citation format:
-Staphylococcus Enterotoxins Database (version 1.0). Available at: https://github.com/macgenomegue/[REPOSITORY_NAME]
+Staphylococcus Enterotoxins Database (version 1.0). Available at: https://github.com/macgenomegue/EnteroStaphDB
 
 Contact
 Maintainer: Guerrino Macori
